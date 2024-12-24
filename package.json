@@ -1,0 +1,24 @@
+{
+  "name": "belajar-redis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NisaCipta/todolist-redis-typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NisaCipta/todolist-redis-typescript/issues"
+  },
+  "homepage": "https://github.com/NisaCipta/todolist-redis-typescript#readme",
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2"
+  }
+}
